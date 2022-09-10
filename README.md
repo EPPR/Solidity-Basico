@@ -1,8 +1,8 @@
 # Solidity-Basico
 
 Pasos a seguir:
-
-0. Crear Archivo nuevo (ya se hizo)
+```
+// 0. Crear Archivo nuevo (ya se hizo)
 
 // 1. Definir Cabeceras
 // 1.1 Definir Licencia (En la primer línea de este archivo)
@@ -23,3 +23,4 @@ Pasos a seguir:
 // 10. Modificar las funciones posibles para utilizar otras funciones internamente.
 
 // 11. Nueva Función "just for fun".
+```
